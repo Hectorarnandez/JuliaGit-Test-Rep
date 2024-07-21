@@ -1,3 +1,3 @@
 print("Hello World!")
-print("Probando Cambios")
-print("Veamos si funciono")
+print("Probando Cambios Remotos")
+print("Veamos si funcionaron los cambios remotos")
