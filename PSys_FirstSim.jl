@@ -656,3 +656,4 @@ hydro_timeseries_DA = [
     [TimeSeries.TimeArray(DayAhead, wind_ts_DA)],
     [TimeSeries.TimeArray(DayAhead + Day(1), rand(24) * 0.1 + wind_ts_DA)],
 ]
+#Test
